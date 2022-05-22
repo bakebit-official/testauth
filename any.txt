@@ -1,9 +1,7 @@
 C line 1
 lfdsafas
 asdfas
-ine asdf 2 C
-line C 3asdf 
-line 7
-asdf 
-adsfa
- asdfas
+ine asdfasd asdf 2 C
+line  asdf C 3asdf 
+line 7asd 
+asdfas
