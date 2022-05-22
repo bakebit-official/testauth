@@ -1,1 +1,2 @@
-Hello from branchA
+Another Hello from branchA
+branch A line 1
