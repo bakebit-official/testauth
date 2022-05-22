@@ -1,6 +1,7 @@
-line 1
-line 2
-line 3
-line 4
+C line 1
+line 2 C
+line C 3
+this is another line
 line 5
 line 6
+line 7
